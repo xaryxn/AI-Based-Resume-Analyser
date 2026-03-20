@@ -1,0 +1,1 @@
+We are looking for a Data Scientist with strong skills in Python, SQL, Machine Learning, and Data Analysis. Experience with Pandas, Scikit-learn, and data visualization is preferred.
